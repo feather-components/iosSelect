@@ -1,5 +1,6 @@
 
 {
     "name": "iosSelect",
-    "main": "iosSelect.js"
+    "main": "iosSelect.js",
+    "version": "1.0.0"
 }
